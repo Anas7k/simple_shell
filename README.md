@@ -29,5 +29,5 @@ special_character - It identiies if the special inputs such as if the frist inpu
 string.c -it handles the strings(string length, write string,find string in directory,concatane strings....)
 cmd.c - it finds the command the user entered.
 execute.c - execute the command.
-AUTHORS
-Anas Ahmed, Brian Musakwa
+Contact Info:
+https://github.com/Anas7k, https://github.com/digreatbrian
